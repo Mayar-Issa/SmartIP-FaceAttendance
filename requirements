@@ -1,0 +1,16 @@
+opencv-python
+facenet-pytorch
+torch
+pillow
+mysql-connector-python
+tensorflow
+torch
+os
+tkinter
+PIL
+cv2
+pickle
+datetime
+pathlib
+numpy
+h5py
